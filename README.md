@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+formación
+
+Curso programación web con Java y Spring (Fundación Adecco) 215h, 2023
